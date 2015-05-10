@@ -1,0 +1,16 @@
+{
+  "name": "va/base-console-app",
+  "license": "MIT",
+  "type": "project",
+  "description": "The base console app",
+  "autoload": {
+    "psr-4": { "": "src/" }
+  },
+  "require": {
+    "php": ">=5.3.3",
+    "symfony/console": "~2.7@beta"
+  },
+  "config": {
+    "bin-dir": "bin"
+  }
+}
