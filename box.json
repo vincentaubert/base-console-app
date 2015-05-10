@@ -14,7 +14,7 @@
     }
   ],
   "git-version": "package_version",
-  "main": "bin/dns-check",
+  "main": "bin/base-app",
   "output": "base-app.phar",
   "stub": true
 }
