@@ -6,4 +6,7 @@ This is a base to create console applications.
 
 It's based on the Symfony console component and Box to generate phar files automatically.
 
-You have to install box to build your phar files.
+To build a phar you have to :
+- verify that phar.readonly config is set to Off in your php.ini
+- run php box.phar build
+

@@ -8,7 +8,7 @@
   },
   "require": {
     "php": ">=5.3.3",
-    "symfony/console": "~2.7"
+    "symfony/console": "~2.8.0"
   },
   "config": {
     "bin-dir": "bin"
