@@ -4,7 +4,7 @@
   "type": "project",
   "description": "The base console app",
   "autoload": {
-    "psr-4": { "VA\\": "src/" }
+    "psr-4": { "VA\\": "src/VA" }
   },
   "require": {
     "php": ">=5.3.3",
